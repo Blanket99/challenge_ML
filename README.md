@@ -17,7 +17,7 @@ Resultados: Identificación de factores críticos que permiten reducir el churn 
 ## Estructura del Proyecto
 
 ```
-challenge3-data-science-LATAM-main/
+challenge_ML/
 ├── TelecomX_LATAM.ipynb                # Pipeline ML completo (4 algoritmos)
 ├── Informe_Churn_TelecomX.ipynb        # Informe con estrategias
 ├── TelecomX_Limpio.csv                 # Dataset limpio y procesado
